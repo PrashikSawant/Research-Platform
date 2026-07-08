@@ -73,4 +73,4 @@ Groq's `llama-3.3-70b-versatile` occasionally returns a malformed tool-call form
 Day 28b — Streamlit frontend for this backend, connecting register/login/upload/ask into a real usable UI.
 
 ---
-⭐ Part of my 100-day AI Engineering journey — [follow along on LinkedIn](https://www.linkedin.com/in/prashik-sawant-ds/) or check out [all 100 projects](https://github.com/PrashikSawant).
+⭐ Part of my 100-day AI Engineering journey — [follow along on LinkedIn](https://www.linkedin.com/in/prashik-sawant-ds/) or check out [all projects](https://github.com/PrashikSawant).
