@@ -36,7 +36,7 @@ Every project so far has built RAG, agents, or auth *in isolation*. Real AI prod
 ## 🚀 How to Run
 
 ```powershell
-git clone https://github.com/PrashikSawant/day28-research-platform.git
+git clone https://github.com/PrashikSawant/Research-Platform
 cd day28-research-platform
 python -m venv venv
 .\venv\Scripts\Activate.ps1
