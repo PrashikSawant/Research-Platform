@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+groq
+chromadb
+sentence-transformers
+pymupdf
+python-jose[cryptography]
+bcrypt
+python-multipart
